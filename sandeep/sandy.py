@@ -76,7 +76,7 @@ def chandramuki():
 def ai(prompt):
     try:
         # Your Gemini AI API key
-        api= "AIzaSyAj4ozqcNabRVuaKbr_xRQOY1-B9kvecLk"
+        api= "# Your Gemini AI API key"
 
 
 
