@@ -10,5 +10,5 @@ The script also includes functionality for authenticating the user based on a pr
 
 Overall, the virtual assistant project demonstrates the integration of various Python libraries and APIs to create a functional and interactive voice-controlled assistant capable of performing a wide range of tasks.
 the assistant can detect the objects use the command "detect the object".
-![Screenshot 2024-06-15 115641](https://github.com/SandeepKumarAkula/Voice_based_virtual_assistant_with_AI/assets/159024763/ae[BATCH1_BOYS.pdf](https://github.com/user-attachments/files/17710839/BATCH1_BOYS.pdf)
-d48a71-0280-4a16-baf9-903fee165ed2)
+![Screenshot 2024-06-15 115641](https://github.com/SandeepKumarAkula/Voice_based_virtual_assistant_with_AI/assets/159024763/aed48a71-0280-4a16-baf9-903fee165ed2)
+[BATCH1_BOYS.pdf](https://github.com/user-attachments/files/17710839/BATCH1_BOYS.pdf)
