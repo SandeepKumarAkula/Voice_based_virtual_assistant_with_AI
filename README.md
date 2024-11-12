@@ -1,4 +1,4 @@
-hello I am Sandeep kumar Akula I am a python Developer 
+Hello I am Sandeep kumar Akula I am a python Developer 
 the project Voice based virtual Assistant can also answer to your questions using the AI(Gemini AI)
 virtual assistant capable of performing various tasks based on voice commands. The assistant utilizes several libraries such as pyttsx3 for text-to-speech conversion, speech_recognition for voice recognition, pyjokes for fetching jokes, pywhatkit for playing songs or videos, Wikipedia for fetching information, web scraping for fetching news, and more.
 
